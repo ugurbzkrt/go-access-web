@@ -7,7 +7,7 @@ sudo apt update
 sudo apt install goaccess
 ```
 
-## Fedora
+## Fedora
 ```
 $ yum install goaccess
 ```
